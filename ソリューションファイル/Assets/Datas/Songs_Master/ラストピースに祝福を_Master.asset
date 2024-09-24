@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 108abb60d17ef8c4db99d2d5065c44e1, type: 3}
+  m_Name: "\u30E9\u30B9\u30C8\u30D4\u30FC\u30B9\u306B\u795D\u798F\u3092_Master"
+  m_EditorClassIdentifier: 
+  songID: 35
+  songName: "\u30E9\u30B9\u30C8\u30D4\u30FC\u30B9\u306B\u795D\u798F\u3068\u6804\u5149\u3092_Master"
+  songDifficult: Master
+  songNameopen: "\u30E9\u30B9\u30C8\u30D4\u30FC\u30B9\u306B\u3057\u3085\u304F\u3075\u304F\u3068\u3048\u3044\u3053\u3046\u3092"
+  selectSongName: "\u30E9\u30B9\u30C8\u30D4\u30FC\u30B9\u306B\u795D\u798F\u3068\u6804\u5149\u3092"
+  creditName: CosMo
+  BPM: 280
+  musicLength: 0
+  songLevel: 120
+  songImage: {fileID: 21300000, guid: 9e1a927e6bce08c418b39b480332f95a, type: 3}

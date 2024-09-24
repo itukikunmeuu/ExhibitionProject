@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 108abb60d17ef8c4db99d2d5065c44e1, type: 3}
+  m_Name: "\u30A8\u30F3\u30F4\u30A3\u30FC\u30D9\u30A4\u30D3\u30FC\xD7King_Master"
+  m_EditorClassIdentifier: 
+  songID: 34
+  songName: "\u30A8\u30F3\u30F4\u30A3\u30FC\u30D9\u30A4\u30D3\u30FC\xD7King_Master"
+  songDifficult: Master
+  songNameopen: "\u30A8\u30F3\u30F4\u30A3\u30FC\u30D9\u30A4\u30D3\u30FC\xD7King"
+  selectSongName: "\u30A8\u30F3\u30F4\u30A3\u30FC\u30D9\u30A4\u30D3\u30FC\xD7King"
+  creditName: Kanaria
+  BPM: 171
+  musicLength: 0
+  songLevel: 30
+  songImage: {fileID: 21300000, guid: 91e4c6d71e0c94c42a385a6733a1a4cb, type: 3}
